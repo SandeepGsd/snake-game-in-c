@@ -1,4 +1,5 @@
 # snake-game-in-c
+This program will run only on clang compiler due to the requirement of khbit() function in clang
 This game is similar to snake game in keyapad phones.
 This was made in c using Pointers, Files, etc..
 
